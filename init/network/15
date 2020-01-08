@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    15                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: csalceda <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/11/26 00:28:44 by csalceda          #+#    #+#              #
+#    Updated: 2019/11/26 00:31:55 by csalceda         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+permissions are denied to make this kind of change but i found 2 solutions:
+
+	- move host file to Desktop and change it
+	- echo 'intra.42.fr 46.19.122.85' >> /etc/hosts

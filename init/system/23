@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    23                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: csalceda <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/11/27 02:13:34 by csalceda          #+#    #+#              #
+#    Updated: 2019/11/27 02:24:03 by csalceda         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+with the graphic session you only log out and log back on
+
+in ssh session run the command:
+	ssh <user>@<ip address>

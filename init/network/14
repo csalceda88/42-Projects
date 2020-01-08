@@ -1,0 +1,21 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    14                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: csalceda <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/11/26 00:08:23 by csalceda          #+#    #+#              #
+#    Updated: 2019/11/26 00:18:37 by csalceda         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+the file that contains the local DNS entries is:
+	cat /etc/hosts
+
+the output of file is:
+	127.0.0.1       localhost
+	255.255.255.255 broadcasthost
+	::1             localhost
+
+	#10.51.1.38 	cdn.intra.42.fr
