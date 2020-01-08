@@ -1,0 +1,115 @@
+
+body{
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/948465293058790764/27643E1D897B0139DE323BFC7B1707A063387ADF/);
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    height: auto;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-;
+    font-weight: bolder;
+    font-size: 5vw;
+}
+#box1{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: aqua;
+}
+#mass{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1vw;
+    padding: 5px;
+}
+#elem{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 2vw;
+    padding: 5px;
+}
+#elem2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1.5vw;
+    padding: 5px;
+}
+#number{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1vw;
+    padding: 5px;
+}
+#box2{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: lightblue;
+}
+#box3{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(230, 104, 104, 0.993);
+}
+#box4{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(132, 230, 136, 0.932);
+}
+#box5{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(229, 151, 206, 0.836);
+}
+#box6{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(246, 248, 126, 0.712);
+}
+#box7{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(2, 108, 134, 0.712);
+}
+#box8{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(255, 0, 0, 0.863);
+}
+#box9{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(0, 67, 252, 0.612);
+}
+#box10{
+    width: 65px;
+    height: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgba(0, 67, 252, 0.938);
+}
+#space{
+    height: 12px;
+}
